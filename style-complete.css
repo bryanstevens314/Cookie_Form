@@ -1,0 +1,52 @@
+body{
+    width:100%;
+    margin:0;
+    background-color:#404040;
+}
+#congrats{
+    padding-top:20px;
+    font-size:20px;
+    text-align:center;
+    color: #f2f2f2;
+}
+.container{
+    width:50%;
+    height:200px;
+    margin:0 auto;
+}
+.alert{
+    background-color:pink;
+}
+.header{
+    width:100%;
+    height:100px;
+    background-color:#666666;
+}
+.content{
+    width:98%;
+    height:500px;
+    margin:0 auto;
+    background-color:#666666;
+}
+form{
+    width:30%;
+    height:300px;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+    background-color:#f2f2f2;
+}
+.inputArea{
+    text-align:center;
+}
+input[type="text"] {
+    display: block;
+    margin : 0 auto;
+}
+input[type="email"] {
+    display: block;
+    margin : 0 auto;
+}
+#submit-button {
+    margin: 0 auto;
+}
