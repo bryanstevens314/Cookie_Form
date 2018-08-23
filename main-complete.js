@@ -18,7 +18,7 @@ function getInputData(){
         document.cookie = "firstName=" + data.firstName;
         document.cookie = "lastName=" + data.lastName;
         document.cookie = "email=" + data.email;
-        window.location.href = "http://127.0.0.1:5500/bootcamp-prep/Week-06/Day%2002/forms-complete/loggedIn.html";
+        window.location.href = "http://127.0.0.1:5500/forms-complete/loggedIn.html";
     }
     else{
         alert("All fields are required");
